@@ -1,0 +1,6 @@
+{
+  "name": "Study Task Manager",
+  "description": "A sleek dark-themed student task reminder app with subject tags, due date and time reminders, audio beep alerts, popup notifications, and persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
